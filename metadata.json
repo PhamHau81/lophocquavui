@@ -1,0 +1,6 @@
+{
+  "name": "LỚP HỌC HẠNH PHÚC _ PHẠM HẬU",
+  "description": "Ứng dụng Quản lý Lớp học Hạnh phúc & Sách nói Thiếu nhi AI của Giáo viên Phạm Hậu: sơ đồ lớp, điểm danh, vòng quay ngẫu nhiên, thi đua sao thưởng, sáng tác truyện cổ tích nhân vật học sinh và giọng đọc AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

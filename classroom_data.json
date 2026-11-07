@@ -1,0 +1,17 @@
+{
+  "className": "12A6",
+  "schoolName": "THPT Hồng Ngự 3",
+  "teacherName": "Phạm Hậu",
+  "students": [
+    {
+      "id": 1,
+      "name": "Nguyễn Phương Anh",
+      "points": 15,
+      "avatar": "🐰",
+      "group": 1,
+      "phone": "0901234567",
+      "called": false
+    }
+  ],
+  "lastSynced": "2026-11-05T13:34:32.077Z"
+}
